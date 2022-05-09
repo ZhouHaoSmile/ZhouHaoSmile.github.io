@@ -11,11 +11,11 @@ description: First Attempt
 github_username: ZhouHaoSmile
 
 # Email and twitter are optional:
-email:13659289029@163.com
-twitter_username:None
+email: 13659289029@163.com
+twitter_username: None
 
 # Set this to true to get LaTeX math equation support
-use_math:true 
+use_math: true 
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
